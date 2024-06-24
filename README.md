@@ -89,14 +89,16 @@ Durante a execução dos testes, capturamos screenshots e vídeos para documenta
 
 ### Fotos
 
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 1](https://github.com/ancgci/Teste_Funcional_Entelgy/blob/main/images/1.jpg)
+![Screenshot 2](https://github.com/ancgci/Teste_Funcional_Entelgy/blob/main/images/2.jpg)
+![Screenshot 3](https://github.com/ancgci/Teste_Funcional_Entelgy/blob/main/images/3.jpg)
 
 ### Vídeos
 
-![Vídeo 1](videos/video1.mp4)
-![Vídeo 2](videos/video2.mp4)
+Assista a execução dos testes aqui:
+
+[![4]()]()
+
 
 ## Licença
 
