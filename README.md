@@ -97,7 +97,7 @@ Durante a execução dos testes, capturamos screenshots e vídeos para documenta
 
 Assista a execução dos testes aqui:
 
-[![4]()]()
+[![4](https://github.com/ancgci/Teste_Funcional_Entelgy/blob/main/images/Thumb.png)](https://www.youtube.com/watch?v=PlDKiJfz-Us)
 
 
 ## Licença
