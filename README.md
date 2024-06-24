@@ -4,11 +4,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-blue)](https://nodejs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Este repositório contém um roteiro de validação do menu principal do site da Entelgy, com 8 casos de teste que garantem o funcionamento correto das páginas acessíveis através do menu principal.
+Este repositório contém um roteiro de validação do menu principal do site [www.entelgy.com.br](https://www.entelgy.com.br), com 8 casos de teste que garantem o funcionamento correto das páginas acessíveis através do menu principal.
 
 ## Documentação teórica
-
-**Site:** [www.entelgy.com.br](https://www.entelgy.com.br)
 
 ### Feature: Menu de Navegação Principal
 
