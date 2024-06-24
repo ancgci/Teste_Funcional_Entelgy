@@ -6,7 +6,7 @@
 
 Este repositório contém um roteiro de validação do menu principal do site da Entelgy, com 8 casos de teste que garantem o funcionamento correto das páginas acessíveis através do menu principal.
 
-## Documentação
+## Documentação teórica
 
 **Site:** [www.entelgy.com.br](https://www.entelgy.com.br)
 
@@ -99,7 +99,11 @@ Assista a execução dos testes aqui:
 
 [![4](https://github.com/ancgci/Teste_Funcional_Entelgy/blob/main/images/Thumb.png)](https://www.youtube.com/watch?v=PlDKiJfz-Us)
 
+## Observações
+
+Projeto de teste funcional desenvolvido sem vinculo algum com a empresa detentora do site. Atividade de cunho didático e não profissional. Documentação teorica fora desenvolvida com o uso da inteligência artificial e sem acesso algum a documentação oficial da empresa. 
+
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto não está licenciado.
